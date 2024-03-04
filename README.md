@@ -12,7 +12,7 @@ My preparation guide to the KNCA certificate
 ## Container Orchestration – Networking |
 
 
-## Obserbavility
+## Observability
 
 
 
