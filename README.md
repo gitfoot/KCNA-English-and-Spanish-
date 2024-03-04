@@ -10,3 +10,12 @@ My preparation guide to the KNCA certificate
 ## Container Orchestration – Security |
 
 ## Container Orchestration – Networking |
+
+
+## Obserbavility
+
+
+
+
+
+
