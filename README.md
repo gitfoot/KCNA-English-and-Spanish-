@@ -23,7 +23,7 @@ My preparation guide to the KNCA certificate
    ###Open Standards
 --->
 
-## Observability
+## Observability |
 
 
 
