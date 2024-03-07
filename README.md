@@ -11,6 +11,17 @@ My preparation guide to the KNCA certificate
 
 ## Container Orchestration – Networking |
 
+## Cloud Native Architecture
+   ###Content
+   ###Autoscaling 
+   ###Horizontal Pod Autoscaler
+   ###Vertical Pod Autoscaler
+   ###Cluster Autoscaler
+   ###Serverless
+   ###Kubernetes Enhancement Proposals (KEPs)
+   ###Kubernetes SIG
+   ###Open Standards
+
 
 ## Observability
 
