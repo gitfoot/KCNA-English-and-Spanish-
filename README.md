@@ -1,15 +1,15 @@
 # KNCA | Kubernetes and Cloud Native Associate (KCNA)
 My preparation guide to the KNCA certificate
 
-## Kubernetes Fundamentals | 
+## Kubernetes Fundamentals | Basicos de K8s
 
-## Kubernetes Resources |
+## Kubernetes Resources |Recursos en K8s
 
-## Scheduling |
+## Scheduling | Planificación en K8s
 
-## Container Orchestration – Security |
+## Container Orchestration – Security |Seguridad en la Orquestracion de contenedores
 
-## Container Orchestration – Networking |
+## Container Orchestration – Networking | Uso de la Red en la Orquestracion de contedoeres
 
 ## Cloud Native Architecture |
    <!---###Content
