@@ -9,7 +9,7 @@ My preparation guide to the KNCA certificate
 
 ### Container Orchestration – Security |Seguridad en la Orquestracion de contenedores
 
-### Container Orchestration – Networking | Uso de la Red en la Orquestracion de contedoeres
+### Container Orchestration – Networking | Uso de la Red en la Orquestracion de contenedores
 
 ### Cloud Native Architecture | Architectura de Nube Nativa
 ### Observability | Observabilidad
