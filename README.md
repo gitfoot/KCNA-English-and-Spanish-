@@ -1,4 +1,4 @@
-## KNCA | Kubernetes and Cloud Native Associate (KCNA)
+## KCNA | Kubernetes and Cloud Native Associate (KCNA)
 My preparation guide to the KNCA certificate
 
 ### Kubernetes Fundamentals | Basicos de K8s
