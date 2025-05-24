@@ -21,3 +21,15 @@ El **ReplicaSet** es como el **entrenador asistente o el supervisor de la planti
 * A él no le importa si el jugador es un novato o una estrella, solo que el número *X* de posiciones estén cubiertas por jugadores.
 
 
+---
+
+### **Deployments (El Director Técnico / Estratega del Equipo)**
+
+El **Deployment** es el **Director Técnico (DT) o estratega principal del equipo**. Es quien toma las decisiones de alto nivel sobre la alineación, las tácticas y las nuevas incorporaciones del equipo.
+
+* **Gestiona al Entrenador Asistente (ReplicaSet):** El DT le indica al entrenador asistente cuántos jugadores quiere en cada posición clave del campo (cuántas réplicas de Pods).
+* **Alineaciones y Sustituciones (Rollouts):** Cuando el equipo adquiere un **nuevo jugador estrella** (una nueva versión de tu aplicación), el DT no cambia a todo el equipo de golpe. En su lugar, implementa una estrategia de sustitución gradual:
+    * Introduce al nuevo jugador en el campo.
+    * Mientras el nuevo jugador se integra, un jugador del once inicial sale, asegurando que el equipo siga jugando sin interrupción (estrategia de "Rolling Update").
+* **Cambio de Táctica (Rollback):** Si una nueva táctica o jugador no funciona como se esperaba, el DT puede ordenar rápidamente **volver a la alineación o táctica anterior** que era efectiva.
+* **Estrategia de Partido (Escalado):** Si las condiciones del partido o la estrategia lo requieren (por ejemplo, necesidad de más ataque o más defensa), el DT puede aumentar o disminuir el número de jugadores en ciertas posiciones (escala los Pods).
